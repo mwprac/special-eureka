@@ -1,0 +1,6 @@
+messages:
+  - role: system
+    content: ''
+  - role: user
+    content: "mogę\_{{zmiennej}} użyć?"
+model: openai/gpt-4o
